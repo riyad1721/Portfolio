@@ -10,7 +10,7 @@
 .header-container {
 
     background-image: url(./image/Untitled\ design.png);
-    height: 78vh;
+    height: 85vh;
     /* color: #fff; */
     min-height: 500px;
     background-size: cover;
@@ -42,7 +42,7 @@
 
 .header-information {
     display: flex;
-    height: 76vh;
+    height: 75vh;
     padding-top: 70px;
     color: black;
     min-height: 500px;
